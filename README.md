@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jasmeen1234
 - 👀 I’m interested in learn technologies:
-  Html, Css, Javascrip,t React Js, Node.
+  Html, Css, Javascript, React Js, Node.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  jasmeenbano12@gmail.com
